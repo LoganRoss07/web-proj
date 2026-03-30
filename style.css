@@ -6,10 +6,6 @@
   width: 40px;
 }
 
-.movie-card {
-  width: 18rem;
-}
-
 .rating-poster {
   max-height: 100px;
   object-fit: cover;
